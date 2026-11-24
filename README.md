@@ -20,10 +20,10 @@ Create tree nodes.
 Main function to implement huffman coding.
 
 ### Step4:
-calculate frequency of occurence.
+Calculate frequency of occurence.
 
 ### Step5:
-print the characters and its huffmancode.
+Print the characters and its huffmancode.
  
 ## Program:
 
